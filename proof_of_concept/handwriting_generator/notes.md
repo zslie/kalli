@@ -4,6 +4,7 @@
  * https://huggingface.co/openai/imagegpt-small
  * https://huggingface.co/blog/speecht5
  * fast.ai
+ * https://www.kaggle.com/datasets/crawford/emnist
 2. Use characters/handwriting data from Kaggle
 3. Train recommendation system
 4. Release Google Function
